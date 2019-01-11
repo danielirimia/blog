@@ -1,4 +1,5 @@
-baseurl = "https://danielirimia.github.io"
+baseurl = "https://danielirimia.github.io/blog"
+publishDir="docs"
 languageCode = "en"
 title = "Daniel Irimia's Blog"
 theme = "kiss"
