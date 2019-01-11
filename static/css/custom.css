@@ -1,0 +1,21 @@
+.title a {
+    color: #ff7043;
+}
+
+.subtitle a:hover, .title a:hover {
+    border-bottom: 0 ;
+    color: #d84315;
+}
+
+.content h1 code, .content h2 code, .content h3 code, .content h4 code, .content h5 code, .content h6 code {
+    background-color: #d84315;
+    color: white;
+}
+
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+    color: #dd2c00;
+}
+
+section .social-wrapper {
+    width: 160px;
+}
